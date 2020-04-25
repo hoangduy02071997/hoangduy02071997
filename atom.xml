@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/25/hello-world/"/>
-    <id>http://yoursite.com/2020/04/25/hello-world/</id>
+    <link href="http://yoursite.com/hello-world"/>
+    <id>http://yoursite.com/hello-world</id>
     <published>2020-04-25T16:13:00.128Z</published>
     <updated>2020-04-25T16:13:00.128Z</updated>
     
